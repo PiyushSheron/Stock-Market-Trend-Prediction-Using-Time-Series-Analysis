@@ -163,6 +163,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For any questions or suggestions, please contact:
 
-	•	Mohit Kumar
-	•	Email: mk1695@srmist.edu.in
-	•	GitHub: mohit0825
+	•	Piyush Garg
+	•	Email: pg2744@srmist.edu.in
+	•	GitHub: PiyushSheron
